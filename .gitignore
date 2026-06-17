@@ -1,0 +1,22 @@
+# Dependências / build
+node_modules/
+package.json
+package-lock.json
+
+# Tooling local / editor
+.claude/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporários
+_frames/
+
+# Vídeo de referência (não faz parte do site, é pesado)
+*.mp4
+
+# Artefatos de deploy
+*.zip
