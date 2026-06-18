@@ -1,0 +1,19 @@
+{
+  "name": "DuaLLs — Automação que conversa. Design que conecta.",
+  "short_name": "DuaLLs",
+  "description": "Automação de atendimento com IA + Webdesign que converte.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "/logo-icon.png",
+      "sizes": "500x500",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

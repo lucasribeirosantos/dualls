@@ -13,10 +13,11 @@ Site estático, sem build. Apenas HTML, CSS e JavaScript puro.
 | `index.html` | Estrutura e conteúdo da página |
 | `styles.css` | Estilos, identidade visual e animações |
 | `script.js` | Preloader, animações de scroll, calculadora de economia |
-| `logo icon.png` | Ícone da marca (cabeçalho, favicon, preloader) |
-| `logo escrita.png` | Logotipo completo (rodapé) |
+| `logo-icon.png` | Ícone da marca (cabeçalho, favicon, preloader) |
+| `logo-escrita.png` | Logotipo completo (rodapé) |
 | `hero-img.png` | Imagem da hero (estátuas) |
-| `Post Instagram DuaLLs.png` | Imagem de compartilhamento (Open Graph) |
+| `og-image.png` | Imagem de compartilhamento (Open Graph) |
+| `robots.txt` · `sitemap.xml` · `site.webmanifest` | SEO / AEO |
 
 ## Rodar localmente
 
