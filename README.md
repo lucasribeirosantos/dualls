@@ -34,6 +34,6 @@ Site 100% estático. É só enviar os arquivos da raiz para a pasta pública da 
 
 ## Contato
 
-- WhatsApp: +55 19 97417-3399
+- WhatsApp: +55 19 98331-5528
 - E-mail: dualls.atendimento@gmail.com
 - Instagram: [@dualls.co](https://www.instagram.com/dualls.co/)
